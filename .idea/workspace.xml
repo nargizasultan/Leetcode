@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b4d5946-fe51-4aca-bb20-aeb4973fc516" name="Changes" comment="polindrom number">
-      <change afterPath="$PROJECT_DIR$/src/math/easy/Roman_to_Integer_13/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Plus_One_66/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/easy/Convert_the_Temperature_2469/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/easy/Subtract_the_Product_and_Sum_of_Digits_of_an_Integer_1281/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,20 +44,13 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.math.easy.Roman_to_Integer_13.Solution">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Maximum_Number_of_Words_Found_in_Sentences_2114.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Maximum_Number_of_Words_Found_in_Sentences_2114.Solution" />
+  <component name="RunManager" selected="Application.math.easy.Subtract_the_Product_and_Sum_of_Digits_of_an_Integer_1281.Solution">
+    <configuration name="Plus_One_66.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Plus_One_66.Solution" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Maximum_Number_of_Words_Found_in_Sentences_2114.*" />
+          <option name="PATTERN" value="Plus_One_66.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,11 +59,11 @@
       </method>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Final_Value_of_Variable_After_Performing_Operations_2011.Solution" />
+      <option name="MAIN_CLASS_NAME" value="math.easy.Convert_the_Temperature_2469.Solution" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Final_Value_of_Variable_After_Performing_Operations_2011.*" />
+          <option name="PATTERN" value="math.easy.Convert_the_Temperature_2469.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,13 +97,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="math.easy.Subtract_the_Product_and_Sum_of_Digits_of_an_Integer_1281.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="math.easy.Subtract_the_Product_and_Sum_of_Digits_of_an_Integer_1281.Solution" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="math.easy.Subtract_the_Product_and_Sum_of_Digits_of_an_Integer_1281.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.math.easy.Subtract_the_Product_and_Sum_of_Digits_of_an_Integer_1281.Solution" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Plus_One_66.Solution" />
         <item itemvalue="Application.math.easy.Roman_to_Integer_13.Solution" />
         <item itemvalue="Application.math.easy.Palindrome_Number_9.Solution" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Maximum_Number_of_Words_Found_in_Sentences_2114.Solution" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -121,7 +129,8 @@
       <option name="presentableId" value="Default" />
       <updated>1669166974519</updated>
       <workItem from="1669166975997" duration="1298000" />
-      <workItem from="1670363785170" duration="10422000" />
+      <workItem from="1670363785170" duration="12023000" />
+      <workItem from="1670459458061" duration="7185000" />
     </task>
     <task id="LOCAL-00001" summary="polindrom number">
       <created>1670365593125</created>
@@ -130,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670365593125</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="polindrom number">
+      <created>1670374284200</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670374284200</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
