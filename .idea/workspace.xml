@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b4d5946-fe51-4aca-bb20-aeb4973fc516" name="Changes" comment="polindrom number">
-      <change afterPath="$PROJECT_DIR$/src/Plus_One_66/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math/easy/Convert_the_Temperature_2469/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math/easy/Subtract_the_Product_and_Sum_of_Digits_of_an_Integer_1281/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/easy/Number_of_Steps_to_Reduce_a_Number_to_Zero_1342/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/easy/Smallest_Even_Multiple_2413/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medium/Reverse_Integer_7/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Plus_One_66/Solution.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,20 +45,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.math.easy.Subtract_the_Product_and_Sum_of_Digits_of_an_Integer_1281.Solution">
-    <configuration name="Plus_One_66.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Plus_One_66.Solution" />
-      <module name="Leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Plus_One_66.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.math.easy.Smallest_Even_Multiple_2413.Solution">
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="math.easy.Convert_the_Temperature_2469.Solution" />
       <module name="Leetcode" />
@@ -71,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="math.easy.Palindrome_Number_9.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="math.easy.Palindrome_Number_9.Solution" />
+    <configuration name="math.easy.Number_of_Steps_to_Reduce_a_Number_to_Zero_1342.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="math.easy.Number_of_Steps_to_Reduce_a_Number_to_Zero_1342.Solution" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="math.easy.Palindrome_Number_9.*" />
+          <option name="PATTERN" value="math.easy.Number_of_Steps_to_Reduce_a_Number_to_Zero_1342.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="math.easy.Roman_to_Integer_13.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="math.easy.Roman_to_Integer_13.Solution" />
+    <configuration name="math.easy.Smallest_Even_Multiple_2413.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="math.easy.Smallest_Even_Multiple_2413.Solution" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="math.easy.Roman_to_Integer_13.*" />
+          <option name="PATTERN" value="math.easy.Smallest_Even_Multiple_2413.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,13 +98,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="medium.Reverse_Integer_7.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="medium.Reverse_Integer_7.Solution" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="medium.Reverse_Integer_7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.math.easy.Smallest_Even_Multiple_2413.Solution" />
+        <item itemvalue="Application.medium.Reverse_Integer_7.Solution" />
+        <item itemvalue="Application.math.easy.Number_of_Steps_to_Reduce_a_Number_to_Zero_1342.Solution" />
         <item itemvalue="Application.math.easy.Subtract_the_Product_and_Sum_of_Digits_of_an_Integer_1281.Solution" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Plus_One_66.Solution" />
-        <item itemvalue="Application.math.easy.Roman_to_Integer_13.Solution" />
-        <item itemvalue="Application.math.easy.Palindrome_Number_9.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -131,6 +132,9 @@
       <workItem from="1669166975997" duration="1298000" />
       <workItem from="1670363785170" duration="12023000" />
       <workItem from="1670459458061" duration="7185000" />
+      <workItem from="1670562681420" duration="5951000" />
+      <workItem from="1670608020946" duration="453000" />
+      <workItem from="1670609710089" duration="2638000" />
     </task>
     <task id="LOCAL-00001" summary="polindrom number">
       <created>1670365593125</created>
