@@ -1,4 +1,4 @@
-package medium.Reverse_Integer_7;
+package math.medium.Reverse_Integer_7;
 
 public class Solution {
     public static void main(String[] args) {
