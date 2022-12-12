@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b4d5946-fe51-4aca-bb20-aeb4973fc516" name="Changes" comment=",">
-      <change afterPath="$PROJECT_DIR$/src/array/Concatenation_of_Array_1929/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math/easy/Climbing_Stairs_70/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math/easy/Fibonacci_Number_509/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math/easy/Sqrt_x_69/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/easy/Find_the_Pivot_Integer_2485/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/Sqrt_x_69/Solution.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,13 +42,13 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.math.easy.Fibonacci_Number_509.Solution">
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="math.easy.Sqrt_x_69.Solution" />
+      <option name="MAIN_CLASS_NAME" value="math.easy.Find_the_Pivot_Integer_2485.Solution" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="math.easy.Sqrt_x_69.*" />
+          <option name="PATTERN" value="math.easy.Find_the_Pivot_Integer_2485.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="math.Number_of_Subarrays_With_GCD_Equal_to_K_2447.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="math.Number_of_Subarrays_With_GCD_Equal_to_K_2447.Solution" />
+    <configuration name="math.Number_of_Good_Pairs_1512.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="math.Number_of_Good_Pairs_1512.Solution" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="math.Number_of_Subarrays_With_GCD_Equal_to_K_2447.*" />
+          <option name="PATTERN" value="math.Number_of_Good_Pairs_1512.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,10 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.math.Number_of_Good_Pairs_1512.Solution" />
         <item itemvalue="Application.math.easy.Fibonacci_Number_509.Solution" />
         <item itemvalue="Application.math.easy.Climbing_Stairs_70.Solution" />
         <item itemvalue="Application.array.Concatenation_of_Array_1929.Solution" />
-        <item itemvalue="Application.math.Number_of_Subarrays_With_GCD_Equal_to_K_2447.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -140,6 +137,7 @@
       <workItem from="1670787619271" duration="324000" />
       <workItem from="1670790573663" duration="305000" />
       <workItem from="1670791685294" duration="3742000" />
+      <workItem from="1670858315675" duration="5364000" />
     </task>
     <task id="LOCAL-00001" summary="polindrom number">
       <created>1670365593125</created>
@@ -162,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670612608493</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary=",">
+      <created>1670858405311</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670858405311</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -180,5 +185,36 @@
     <MESSAGE value="polindrom number" />
     <MESSAGE value="," />
     <option name="LAST_COMMIT_MESSAGE" value="," />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/math/Number_of_Good_Pairs_1512/Solution.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/math/Number_of_Good_Pairs_1512/Solution.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/math/Number_of_Good_Pairs_1512/Solution.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/math/Number_of_Good_Pairs_1512/Solution.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/math/Number_of_Good_Pairs_1512/Solution.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
