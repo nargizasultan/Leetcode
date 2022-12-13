@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b4d5946-fe51-4aca-bb20-aeb4973fc516" name="Changes" comment=",">
-      <change afterPath="$PROJECT_DIR$/src/math/easy/Find_the_Pivot_Integer_2485/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/easy/A_Number_After_a_Double_Reversal_2119/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/easy/Count_of_Matches_in_Tournament_1688/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,26 +43,13 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Application.math.easy.A_Number_After_a_Double_Reversal_2119.Solution">
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="math.easy.Find_the_Pivot_Integer_2485.Solution" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="math.easy.Find_the_Pivot_Integer_2485.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="array.Concatenation_of_Array_1929.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.Concatenation_of_Array_1929.Solution" />
-      <module name="Leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.Concatenation_of_Array_1929.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="math.easy.Climbing_Stairs_70.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="math.easy.Climbing_Stairs_70.Solution" />
+    <configuration name="math.easy.A_Number_After_a_Double_Reversal_2119.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="math.easy.A_Number_After_a_Double_Reversal_2119.Solution" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="math.easy.Climbing_Stairs_70.*" />
+          <option name="PATTERN" value="math.easy.A_Number_After_a_Double_Reversal_2119.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,13 +96,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="string.easy.Ransom_Note_383.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.easy.Ransom_Note_383.Solution" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string.easy.Ransom_Note_383.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.math.easy.A_Number_After_a_Double_Reversal_2119.Solution" />
+        <item itemvalue="Application.string.easy.Ransom_Note_383.Solution" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.math.Number_of_Good_Pairs_1512.Solution" />
         <item itemvalue="Application.math.easy.Fibonacci_Number_509.Solution" />
-        <item itemvalue="Application.math.easy.Climbing_Stairs_70.Solution" />
-        <item itemvalue="Application.array.Concatenation_of_Array_1929.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -138,6 +139,9 @@
       <workItem from="1670790573663" duration="305000" />
       <workItem from="1670791685294" duration="3742000" />
       <workItem from="1670858315675" duration="5364000" />
+      <workItem from="1670885513892" duration="447000" />
+      <workItem from="1670886988771" duration="709000" />
+      <workItem from="1670888813524" duration="607000" />
     </task>
     <task id="LOCAL-00001" summary="polindrom number">
       <created>1670365593125</created>
