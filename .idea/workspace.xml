@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b4d5946-fe51-4aca-bb20-aeb4973fc516" name="Changes" comment=",">
-      <change afterPath="$PROJECT_DIR$/src/Count_Operations_to_Obtain_Zero_2169/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day_of_the_Year_1154/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fizz_Buzz_412/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sign_of_the_Product_of_an_Array_1822/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/Concatenation_of_Array_1929/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Concatenation_of_Array_1929/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/easy/A_Number_After_a_Double_Reversal_2119/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_Number_After_a_Double_Reversal_2119/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/easy/Climbing_Stairs_70/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Climbing_Stairs_70/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/easy/Convert_the_Temperature_2469/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Convert_the_Temperature_2469/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/easy/Count_of_Matches_in_Tournament_1688/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Count_of_Matches_in_Tournament_1688/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/easy/Find_Greatest_Common_Divisor_of_Array_1979/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Find_Greatest_Common_Divisor_of_Array_1979/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/easy/Find_the_Pivot_Integer_2485/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Find_the_Pivot_Integer_2485/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/easy/Number_of_Steps_to_Reduce_a_Number_to_Zero_1342/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Number_of_Steps_to_Reduce_a_Number_to_Zero_1342/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/easy/Palindrome_Number_9/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Palindrome_Number_9/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/easy/Roman_to_Integer_13/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Roman_to_Integer_13/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/easy/Smallest_Even_Multiple_2413/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Smallest_Even_Multiple_2413/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/easy/Sqrt_x_69/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sqrt_x_69/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/easy/Subtract_the_Product_and_Sum_of_Digits_of_an_Integer_1281/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Subtract_the_Product_and_Sum_of_Digits_of_an_Integer_1281/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/easy/Three_Divisors_1952/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Three_Divisors_1952/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/medium/Reverse_Integer_7/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reverse_Integer_7/Solution.java" afterDir="false" />
-    </list>
+    <list default="true" id="8b4d5946-fe51-4aca-bb20-aeb4973fc516" name="Changes" comment="," />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,13 +39,13 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.math.easy.Sign_of_the_Product_of_an_Array_1822.Solution">
-    <configuration name="A_Number_After_a_Double_Reversal_2119.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A_Number_After_a_Double_Reversal_2119.Solution" />
+  <component name="RunManager" selected="Application.Excel_Sheet_Column_Number_171.Solution">
+    <configuration name="Count_Operations_to_Obtain_Zero_2169.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Count_Operations_to_Obtain_Zero_2169.Solution" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A_Number_After_a_Double_Reversal_2119.*" />
+          <option name="PATTERN" value="Count_Operations_to_Obtain_Zero_2169.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +53,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Count_Operations_to_Obtain_Zero_2169.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Count_Operations_to_Obtain_Zero_2169.Solution" />
+    <configuration name="Excel_Sheet_Column_Number_171.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Excel_Sheet_Column_Number_171.Solution" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Count_Operations_to_Obtain_Zero_2169.*" />
+          <option name="PATTERN" value="Excel_Sheet_Column_Number_171.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,10 +107,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.math.easy.Sign_of_the_Product_of_an_Array_1822.Solution" />
-        <item itemvalue="Application.math.easy.Fizz_Buzz_412.Solution" />
-        <item itemvalue="Application.math.easy.Count_Operations_to_Obtain_Zero_2169.Solution" />
-        <item itemvalue="Application.math.easy.A_Number_After_a_Double_Reversal_2119.Solution" />
+        <item itemvalue="Application.Excel_Sheet_Column_Number_171.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +135,7 @@
       <workItem from="1670886988771" duration="709000" />
       <workItem from="1670888813524" duration="3619000" />
       <workItem from="1670939695175" duration="6336000" />
-      <workItem from="1670969943542" duration="481000" />
+      <workItem from="1670969943542" duration="871000" />
     </task>
     <task id="LOCAL-00001" summary="polindrom number">
       <created>1670365593125</created>
