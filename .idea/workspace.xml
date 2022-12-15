@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b4d5946-fe51-4aca-bb20-aeb4973fc516" name="Changes" comment=",">
-      <change afterPath="$PROJECT_DIR$/src/Final_Value_of_Variable_After_Performing_Operations_2011/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shuffle_the_Array_1470/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +43,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Final_Value_of_Variable_After_Performing_Operations_2011.Solution">
+  <component name="RunManager" selected="Application.Shuffle_the_Array_1470.Solution">
     <configuration name="Build_Array_from_Permutation_1920.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Build_Array_from_Permutation_1920.Solution" />
       <module name="Leetcode" />
@@ -70,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="House_Robber_198.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="House_Robber_198.Solution" />
+    <configuration name="Number_of_Common_Factors_2427.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Number_of_Common_Factors_2427.Solution" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="House_Robber_198.*" />
+          <option name="PATTERN" value="Number_of_Common_Factors_2427.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Number_of_Common_Factors_2427.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Number_of_Common_Factors_2427.Solution" />
+    <configuration name="Shuffle_the_Array_1470.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Shuffle_the_Array_1470.Solution" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Number_of_Common_Factors_2427.*" />
+          <option name="PATTERN" value="Shuffle_the_Array_1470.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Shuffle_the_Array_1470.Solution" />
         <item itemvalue="Application.Final_Value_of_Variable_After_Performing_Operations_2011.Solution" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Build_Array_from_Permutation_1920.Solution" />
         <item itemvalue="Application.Number_of_Common_Factors_2427.Solution" />
-        <item itemvalue="Application.House_Robber_198.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +145,7 @@
       <workItem from="1670939695175" duration="6336000" />
       <workItem from="1670969943542" duration="871000" />
       <workItem from="1670975078955" duration="3130000" />
-      <workItem from="1671122616631" duration="3062000" />
+      <workItem from="1671122616631" duration="5653000" />
     </task>
     <task id="LOCAL-00001" summary="polindrom number">
       <created>1670365593125</created>
