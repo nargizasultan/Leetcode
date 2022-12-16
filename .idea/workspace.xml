@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b4d5946-fe51-4aca-bb20-aeb4973fc516" name="Changes" comment=",">
-      <change afterPath="$PROJECT_DIR$/src/How_Many_Numbers_Are_Smaller_Than_the_Current_Number_1365/Solution.java" afterDir="false" />
+    <list default="true" id="8b4d5946-fe51-4aca-bb20-aeb4973fc516" name="Changes" comment="Time: 12 ms (73.96%), Space: 40.7 MB (79.25%)">
       <change afterPath="$PROJECT_DIR$/src/Longest_Common_Prefix_14/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +42,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.How_Many_Numbers_Are_Smaller_Than_the_Current_Number_1365.Solution">
+  <component name="RunManager" selected="Application.Longest_Common_Prefix_14.Solution">
     <configuration name="How_Many_Numbers_Are_Smaller_Than_the_Current_Number_1365.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="How_Many_Numbers_Are_Smaller_Than_the_Current_Number_1365.Solution" />
       <module name="Leetcode" />
@@ -112,8 +110,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.How_Many_Numbers_Are_Smaller_Than_the_Current_Number_1365.Solution" />
         <item itemvalue="Application.Longest_Common_Prefix_14.Solution" />
+        <item itemvalue="Application.How_Many_Numbers_Are_Smaller_Than_the_Current_Number_1365.Solution" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Shuffle_String_1528.Solution" />
         <item itemvalue="Application.Kids_With_the_Greatest_Number_of_Candies_1431.Solution" />
@@ -146,7 +144,7 @@
       <workItem from="1670939695175" duration="6336000" />
       <workItem from="1670969943542" duration="871000" />
       <workItem from="1670975078955" duration="3130000" />
-      <workItem from="1671122616631" duration="20533000" />
+      <workItem from="1671122616631" duration="21082000" />
     </task>
     <task id="LOCAL-00001" summary="polindrom number">
       <created>1670365593125</created>
@@ -183,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670889767042</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Time: 12 ms (73.96%), Space: 40.7 MB (79.25%)">
+      <created>1671223150409</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1671223150409</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -200,7 +205,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="polindrom number" />
     <MESSAGE value="," />
-    <option name="LAST_COMMIT_MESSAGE" value="," />
+    <MESSAGE value="Time: 12 ms (73.96%), Space: 40.7 MB (79.25%)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Time: 12 ms (73.96%), Space: 40.7 MB (79.25%)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -229,31 +235,6 @@
           <url>file://$PROJECT_DIR$/src/math/Number_of_Good_Pairs_1512/Solution.java</url>
           <line>15</line>
           <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Longest_Common_Prefix_14/Solution.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Longest_Common_Prefix_14/Solution.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Longest_Common_Prefix_14/Solution.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Longest_Common_Prefix_14/Solution.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Longest_Common_Prefix_14/Solution.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
