@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b4d5946-fe51-4aca-bb20-aeb4973fc516" name="Changes" comment=",">
-      <change afterPath="$PROJECT_DIR$/src/Goal_Parser_Interpretation_1678/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/How_Many_Numbers_Are_Smaller_Than_the_Current_Number_1365/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Longest_Common_Prefix_14/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,13 +44,13 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Solution">
-    <configuration name="Jewels_and_Stones_771.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jewels_and_Stones_771.Solution" />
+  <component name="RunManager" selected="Application.How_Many_Numbers_Are_Smaller_Than_the_Current_Number_1365.Solution">
+    <configuration name="How_Many_Numbers_Are_Smaller_Than_the_Current_Number_1365.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="How_Many_Numbers_Are_Smaller_Than_the_Current_Number_1365.Solution" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Jewels_and_Stones_771.*" />
+          <option name="PATTERN" value="How_Many_Numbers_Are_Smaller_Than_the_Current_Number_1365.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Shuffle_String_1528.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Shuffle_String_1528.Solution" />
+    <configuration name="Longest_Common_Prefix_14.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Longest_Common_Prefix_14.Solution" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Shuffle_String_1528.*" />
+          <option name="PATTERN" value="Longest_Common_Prefix_14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Shuffle_the_Array_1470.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Shuffle_the_Array_1470.Solution" />
+    <configuration name="Shuffle_String_1528.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Shuffle_String_1528.Solution" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Shuffle_the_Array_1470.*" />
+          <option name="PATTERN" value="Shuffle_String_1528.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.How_Many_Numbers_Are_Smaller_Than_the_Current_Number_1365.Solution" />
+        <item itemvalue="Application.Longest_Common_Prefix_14.Solution" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Shuffle_String_1528.Solution" />
         <item itemvalue="Application.Kids_With_the_Greatest_Number_of_Candies_1431.Solution" />
-        <item itemvalue="Application.Jewels_and_Stones_771.Solution" />
-        <item itemvalue="Application.Shuffle_the_Array_1470.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +146,7 @@
       <workItem from="1670939695175" duration="6336000" />
       <workItem from="1670969943542" duration="871000" />
       <workItem from="1670975078955" duration="3130000" />
-      <workItem from="1671122616631" duration="13374000" />
+      <workItem from="1671122616631" duration="20533000" />
     </task>
     <task id="LOCAL-00001" summary="polindrom number">
       <created>1670365593125</created>
@@ -228,6 +229,31 @@
           <url>file://$PROJECT_DIR$/src/math/Number_of_Good_Pairs_1512/Solution.java</url>
           <line>15</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Longest_Common_Prefix_14/Solution.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Longest_Common_Prefix_14/Solution.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Longest_Common_Prefix_14/Solution.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Longest_Common_Prefix_14/Solution.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Longest_Common_Prefix_14/Solution.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
