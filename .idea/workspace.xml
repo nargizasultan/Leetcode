@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b4d5946-fe51-4aca-bb20-aeb4973fc516" name="Changes" comment="Time: 12 ms (73.96%), Space: 40.7 MB (79.25%)">
-      <change afterPath="$PROJECT_DIR$/src/Longest_Common_Prefix_14/Solution.java" afterDir="false" />
+    <list default="true" id="8b4d5946-fe51-4aca-bb20-aeb4973fc516" name="Changes" comment="Time: 0 ms (100%), Space: 40.4 MB (88.4%)">
+      <change afterPath="$PROJECT_DIR$/src/Defanging_an_IP_Address_1108/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,13 +43,13 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Longest_Common_Prefix_14.Solution">
-    <configuration name="How_Many_Numbers_Are_Smaller_Than_the_Current_Number_1365.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="How_Many_Numbers_Are_Smaller_Than_the_Current_Number_1365.Solution" />
+  <component name="RunManager" selected="Application.Defanging_an_IP_Address_1108.Solution">
+    <configuration name="Defanging_an_IP_Address_1108.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Defanging_an_IP_Address_1108.Solution" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="How_Many_Numbers_Are_Smaller_Than_the_Current_Number_1365.*" />
+          <option name="PATTERN" value="Defanging_an_IP_Address_1108.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Kids_With_the_Greatest_Number_of_Candies_1431.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Kids_With_the_Greatest_Number_of_Candies_1431.Solution" />
+    <configuration name="How_Many_Numbers_Are_Smaller_Than_the_Current_Number_1365.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="How_Many_Numbers_Are_Smaller_Than_the_Current_Number_1365.Solution" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Kids_With_the_Greatest_Number_of_Candies_1431.*" />
+          <option name="PATTERN" value="How_Many_Numbers_Are_Smaller_Than_the_Current_Number_1365.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Defanging_an_IP_Address_1108.Solution" />
         <item itemvalue="Application.Longest_Common_Prefix_14.Solution" />
         <item itemvalue="Application.How_Many_Numbers_Are_Smaller_Than_the_Current_Number_1365.Solution" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Shuffle_String_1528.Solution" />
-        <item itemvalue="Application.Kids_With_the_Greatest_Number_of_Candies_1431.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +145,7 @@
       <workItem from="1670939695175" duration="6336000" />
       <workItem from="1670969943542" duration="871000" />
       <workItem from="1670975078955" duration="3130000" />
-      <workItem from="1671122616631" duration="21082000" />
+      <workItem from="1671122616631" duration="22305000" />
     </task>
     <task id="LOCAL-00001" summary="polindrom number">
       <created>1670365593125</created>
@@ -188,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671223150409</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Time: 0 ms (100%), Space: 40.4 MB (88.4%)">
+      <created>1671223401265</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1671223401265</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -206,7 +214,8 @@
     <MESSAGE value="polindrom number" />
     <MESSAGE value="," />
     <MESSAGE value="Time: 12 ms (73.96%), Space: 40.7 MB (79.25%)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Time: 12 ms (73.96%), Space: 40.7 MB (79.25%)" />
+    <MESSAGE value="Time: 0 ms (100%), Space: 40.4 MB (88.4%)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Time: 0 ms (100%), Space: 40.4 MB (88.4%)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
