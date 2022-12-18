@@ -1,7 +1,5 @@
 package Sorting_the_Sentence_1859;
 
-import java.util.HashMap;
-import java.util.Map;
 
 public class Solution {
     public static void main(String[] args) {
