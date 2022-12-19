@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b4d5946-fe51-4aca-bb20-aeb4973fc516" name="Changes" comment="Time: 0 ms (100%), Space: 40.4 MB (88.4%)">
-      <change afterPath="$PROJECT_DIR$/src/Binary_Search_704/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sorting_the_Sentence_1859/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorting_the_Sentence_1859/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/To_Lower_Case_709/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +45,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Binary_Search_704.Solution">
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="Binary_Search_704.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Binary_Search_704.Solution" />
       <module name="Leetcode" />
@@ -74,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="How_Many_Numbers_Are_Smaller_Than_the_Current_Number_1365.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="How_Many_Numbers_Are_Smaller_Than_the_Current_Number_1365.Solution" />
+    <configuration name="Longest_Common_Prefix_14.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Longest_Common_Prefix_14.Solution" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="How_Many_Numbers_Are_Smaller_Than_the_Current_Number_1365.*" />
+          <option name="PATTERN" value="Longest_Common_Prefix_14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Longest_Common_Prefix_14.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Longest_Common_Prefix_14.Solution" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="To_Lower_Case_709.Solution" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Longest_Common_Prefix_14.*" />
+          <option name="PATTERN" value="To_Lower_Case_709.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Binary_Search_704.Solution" />
         <item itemvalue="Application.Sorting_the_Sentence_1859.Solution" />
         <item itemvalue="Application.Defanging_an_IP_Address_1108.Solution" />
         <item itemvalue="Application.Longest_Common_Prefix_14.Solution" />
-        <item itemvalue="Application.How_Many_Numbers_Are_Smaller_Than_the_Current_Number_1365.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -151,6 +149,7 @@
       <workItem from="1670975078955" duration="3130000" />
       <workItem from="1671122616631" duration="24199000" />
       <workItem from="1671321255568" duration="6197000" />
+      <workItem from="1671399703208" duration="2160000" />
     </task>
     <task id="LOCAL-00001" summary="polindrom number">
       <created>1670365593125</created>
