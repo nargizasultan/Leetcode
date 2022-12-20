@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b4d5946-fe51-4aca-bb20-aeb4973fc516" name="Changes" comment="Time: 0 ms (100%), Space: 40.4 MB (88.4%)">
-      <change afterPath="$PROJECT_DIR$/src/Peak_Index_in_a_Mountain_Array_852/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Valid_Perfect_Square_367/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +45,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Peak_Index_in_a_Mountain_Array_852.Solution">
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="Count_the_Number_of_Consistent_Strings_1684.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Count_the_Number_of_Consistent_Strings_1684.Solution" />
       <module name="Leetcode" />
@@ -86,6 +85,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Valid_Perfect_Square_367.Solution" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Valid_Perfect_Square_367.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Sort_the_People_2418.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sort_the_People_2418.Solution" />
       <module name="Leetcode" />
@@ -99,26 +111,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Truncate_Sentence_1816.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Truncate_Sentence_1816.Solution" />
-      <module name="Leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Truncate_Sentence_1816.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Peak_Index_in_a_Mountain_Array_852.Solution" />
         <item itemvalue="Application.Search_Insert_Position_35.Solution" />
         <item itemvalue="Application.Sort_the_People_2418.Solution" />
         <item itemvalue="Application.Count_the_Number_of_Consistent_Strings_1684.Solution" />
-        <item itemvalue="Application.Truncate_Sentence_1816.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +149,7 @@
       <workItem from="1670975078955" duration="3130000" />
       <workItem from="1671122616631" duration="24199000" />
       <workItem from="1671321255568" duration="6197000" />
-      <workItem from="1671399703208" duration="12163000" />
+      <workItem from="1671399703208" duration="13015000" />
     </task>
     <task id="LOCAL-00001" summary="polindrom number">
       <created>1670365593125</created>
