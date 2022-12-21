@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b4d5946-fe51-4aca-bb20-aeb4973fc516" name="Changes" comment="Time: 0 ms (100%), Space: 40.4 MB (88.4%)">
-      <change afterPath="$PROJECT_DIR$/src/Valid_Perfect_Square_367/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Find_Smallest_Letter_Greater_Than_Target_744/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,18 +41,32 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/nargiza/Downloads/bermet.zip&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Solution">
-    <configuration name="Count_the_Number_of_Consistent_Strings_1684.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Count_the_Number_of_Consistent_Strings_1684.Solution" />
+  <component name="RunManager" selected="Application.Find_Smallest_Letter_Greater_Than_Target_744.Solution">
+    <configuration name="Find_Smallest_Letter_Greater_Than_Target_744.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Find_Smallest_Letter_Greater_Than_Target_744.Solution" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Count_the_Number_of_Consistent_Strings_1684.*" />
+          <option name="PATTERN" value="Find_Smallest_Letter_Greater_Than_Target_744.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Find_the_Distance_Value_Between_Two_Arrays_1385.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Find_the_Distance_Value_Between_Two_Arrays_1385.Solution" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Find_the_Distance_Value_Between_Two_Arrays_1385.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,26 +113,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sort_the_People_2418.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sort_the_People_2418.Solution" />
-      <module name="Leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Sort_the_People_2418.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Find_Smallest_Letter_Greater_Than_Target_744.Solution" />
+        <item itemvalue="Application.Find_the_Distance_Value_Between_Two_Arrays_1385.Solution" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Peak_Index_in_a_Mountain_Array_852.Solution" />
         <item itemvalue="Application.Search_Insert_Position_35.Solution" />
-        <item itemvalue="Application.Sort_the_People_2418.Solution" />
-        <item itemvalue="Application.Count_the_Number_of_Consistent_Strings_1684.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +151,8 @@
       <workItem from="1670975078955" duration="3130000" />
       <workItem from="1671122616631" duration="24199000" />
       <workItem from="1671321255568" duration="6197000" />
-      <workItem from="1671399703208" duration="13015000" />
+      <workItem from="1671399703208" duration="17885000" />
+      <workItem from="1671650663431" duration="4243000" />
     </task>
     <task id="LOCAL-00001" summary="polindrom number">
       <created>1670365593125</created>
