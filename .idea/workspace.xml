@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b4d5946-fe51-4aca-bb20-aeb4973fc516" name="Changes" comment="Time: 0 ms (100%), Space: 40.4 MB (88.4%)">
-      <change afterPath="$PROJECT_DIR$/src/Partitioning_Into_Minimum_Number_Of_Deci_Binary_Numbers_1689/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Maximum_Number_of_Words_Found_in_Sentences_2114/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +46,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Partitioning_Into_Minimum_Number_Of_Deci_Binary_Numbers_1689.Solution">
+  <component name="RunManager" selected="Application.Maximum_Number_of_Words_Found_in_Sentences_2114.Solution">
     <configuration name="Find_Smallest_Letter_Greater_Than_Target_744.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Find_Smallest_Letter_Greater_Than_Target_744.Solution" />
       <module name="Leetcode" />
@@ -73,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Partitioning_Into_Minimum_Number_Of_Deci_Binary_Numbers_1689.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Partitioning_Into_Minimum_Number_Of_Deci_Binary_Numbers_1689.Solution" />
+    <configuration name="Maximum_Number_of_Words_Found_in_Sentences_2114.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Maximum_Number_of_Words_Found_in_Sentences_2114.Solution" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Partitioning_Into_Minimum_Number_Of_Deci_Binary_Numbers_1689.*" />
+          <option name="PATTERN" value="Maximum_Number_of_Words_Found_in_Sentences_2114.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Peak_Index_in_a_Mountain_Array_852.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Peak_Index_in_a_Mountain_Array_852.Solution" />
+    <configuration name="Partitioning_Into_Minimum_Number_Of_Deci_Binary_Numbers_1689.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Partitioning_Into_Minimum_Number_Of_Deci_Binary_Numbers_1689.Solution" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Peak_Index_in_a_Mountain_Array_852.*" />
+          <option name="PATTERN" value="Partitioning_Into_Minimum_Number_Of_Deci_Binary_Numbers_1689.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Maximum_Number_of_Words_Found_in_Sentences_2114.Solution" />
         <item itemvalue="Application.Partitioning_Into_Minimum_Number_Of_Deci_Binary_Numbers_1689.Solution" />
         <item itemvalue="Application.Find_Smallest_Letter_Greater_Than_Target_744.Solution" />
         <item itemvalue="Application.Find_the_Distance_Value_Between_Two_Arrays_1385.Solution" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Peak_Index_in_a_Mountain_Array_852.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +151,7 @@
       <workItem from="1671122616631" duration="24199000" />
       <workItem from="1671321255568" duration="6197000" />
       <workItem from="1671399703208" duration="17885000" />
-      <workItem from="1671650663431" duration="5710000" />
+      <workItem from="1671650663431" duration="6302000" />
     </task>
     <task id="LOCAL-00001" summary="polindrom number">
       <created>1670365593125</created>
