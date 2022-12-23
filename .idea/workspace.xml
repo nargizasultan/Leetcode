@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b4d5946-fe51-4aca-bb20-aeb4973fc516" name="Changes" comment="Time: 0 ms (100%), Space: 40.4 MB (88.4%)">
-      <change afterPath="$PROJECT_DIR$/src/Maximum_Number_of_Words_Found_in_Sentences_2114/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sort_Array_By_Parity_905/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,13 +47,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Maximum_Number_of_Words_Found_in_Sentences_2114.Solution">
-    <configuration name="Find_Smallest_Letter_Greater_Than_Target_744.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Find_Smallest_Letter_Greater_Than_Target_744.Solution" />
+  <component name="RunManager" selected="Application.Solution">
+    <configuration name="Decode_the_Message_2325.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Decode_the_Message_2325.Solution" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Find_Smallest_Letter_Greater_Than_Target_744.*" />
+          <option name="PATTERN" value="Decode_the_Message_2325.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Find_the_Distance_Value_Between_Two_Arrays_1385.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Find_the_Distance_Value_Between_Two_Arrays_1385.Solution" />
+    <configuration name="Find_Smallest_Letter_Greater_Than_Target_744.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Find_Smallest_Letter_Greater_Than_Target_744.Solution" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Find_the_Distance_Value_Between_Two_Arrays_1385.*" />
+          <option name="PATTERN" value="Find_Smallest_Letter_Greater_Than_Target_744.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,11 +101,11 @@
       </method>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Valid_Perfect_Square_367.Solution" />
+      <option name="MAIN_CLASS_NAME" value="Sort_Array_By_Parity_905.Solution" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Valid_Perfect_Square_367.*" />
+          <option name="PATTERN" value="Sort_Array_By_Parity_905.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Decode_the_Message_2325.Solution" />
         <item itemvalue="Application.Maximum_Number_of_Words_Found_in_Sentences_2114.Solution" />
         <item itemvalue="Application.Partitioning_Into_Minimum_Number_Of_Deci_Binary_Numbers_1689.Solution" />
         <item itemvalue="Application.Find_Smallest_Letter_Greater_Than_Target_744.Solution" />
-        <item itemvalue="Application.Find_the_Distance_Value_Between_Two_Arrays_1385.Solution" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +152,7 @@
       <workItem from="1671122616631" duration="24199000" />
       <workItem from="1671321255568" duration="6197000" />
       <workItem from="1671399703208" duration="17885000" />
-      <workItem from="1671650663431" duration="6302000" />
+      <workItem from="1671650663431" duration="10860000" />
     </task>
     <task id="LOCAL-00001" summary="polindrom number">
       <created>1670365593125</created>
