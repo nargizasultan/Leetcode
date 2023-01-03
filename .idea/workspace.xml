@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b4d5946-fe51-4aca-bb20-aeb4973fc516" name="Changes" comment="Time: 0 ms (100%), Space: 40.4 MB (88.4%)">
-      <change afterPath="$PROJECT_DIR$/src/Word_Pattern_290/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Delete_Columns_to_Make_Sorted_944/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +46,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Word_Pattern_290.Solution">
+  <component name="RunManager" selected="Application.Delete_Columns_to_Make_Sorted_944.Solution">
     <configuration name="Check_if_the_Sentence_Is_Pangram_1832.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Check_if_the_Sentence_Is_Pangram_1832.Solution" />
       <module name="Leetcode" />
@@ -60,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Detect_Capital_520.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Detect_Capital_520.Solution" />
+    <configuration name="Delete_Columns_to_Make_Sorted_944.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Delete_Columns_to_Make_Sorted_944.Solution" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Detect_Capital_520.*" />
+          <option name="PATTERN" value="Delete_Columns_to_Make_Sorted_944.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sort_Array_By_Parity_905.Solution" />
+    <configuration name="Detect_Capital_520.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Detect_Capital_520.Solution" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sort_Array_By_Parity_905.*" />
+          <option name="PATTERN" value="Detect_Capital_520.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Delete_Columns_to_Make_Sorted_944.Solution" />
         <item itemvalue="Application.Word_Pattern_290.Solution" />
         <item itemvalue="Application.Detect_Capital_520.Solution" />
         <item itemvalue="Application.Valid_Parentheses_20.Solution" />
         <item itemvalue="Application.Check_if_the_Sentence_Is_Pangram_1832.Solution" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +153,7 @@
       <workItem from="1671399703208" duration="17885000" />
       <workItem from="1671650663431" duration="10860000" />
       <workItem from="1672183651020" duration="1824000" />
-      <workItem from="1672547377490" duration="6596000" />
+      <workItem from="1672547377490" duration="9780000" />
     </task>
     <task id="LOCAL-00001" summary="polindrom number">
       <created>1670365593125</created>
