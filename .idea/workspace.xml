@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b4d5946-fe51-4aca-bb20-aeb4973fc516" name="Changes" comment="Time: 0 ms (100%), Space: 40.4 MB (88.4%)">
-      <change afterPath="$PROJECT_DIR$/src/tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Binaryz_Tree_Preorder_Traversal_144/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +47,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.tree">
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="Gas_Station_134.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Gas_Station_134.Solution" />
       <module name="Leetcode" />
@@ -87,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Minimum_Number_of_Arrows_to_Burst_Balloons_452.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Minimum_Number_of_Arrows_to_Burst_Balloons_452.Solution" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Binaryz_Tree_Preorder_Traversal_144.Solution" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Minimum_Number_of_Arrows_to_Burst_Balloons_452.*" />
+          <option name="PATTERN" value="Binaryz_Tree_Preorder_Traversal_144.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.tree" />
         <item itemvalue="Application.Max_Points_on_a_Line_149.Solution" />
         <item itemvalue="Application.Gas_Station_134.Solution" />
         <item itemvalue="Application.Maximum_Ice_Cream_Bars_1833.Solution" />
-        <item itemvalue="Application.Minimum_Number_of_Arrows_to_Burst_Balloons_452.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +157,7 @@
       <workItem from="1672547377490" duration="11633000" />
       <workItem from="1672897782329" duration="9657000" />
       <workItem from="1673246380266" duration="2524000" />
-      <workItem from="1673373594862" duration="4267000" />
+      <workItem from="1673373594862" duration="7927000" />
     </task>
     <task id="LOCAL-00001" summary="polindrom number">
       <created>1670365593125</created>
@@ -261,6 +261,31 @@
           <url>file://$PROJECT_DIR$/src/Check_if_the_Sentence_Is_Pangram_1832/Solution.java</url>
           <line>19</line>
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Binaryz_Tree_Preorder_Traversal_144/Solution.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Binaryz_Tree_Preorder_Traversal_144/Solution.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Binaryz_Tree_Preorder_Traversal_144/Solution.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Binaryz_Tree_Preorder_Traversal_144/Solution.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Binaryz_Tree_Preorder_Traversal_144/Solution.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
