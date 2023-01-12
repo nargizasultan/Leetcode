@@ -8,8 +8,8 @@ import java.util.Stack;
 public class Solution {
     public static void main(String[] args) {
         TreeNode root = new TreeNode(1, null, new TreeNode(2, new TreeNode(3), null));
-        //  System.out.println(preorderTraversal(root));
-        System.out.println(preorderTraversal1(root));
+        System.out.println(preorderTraversal(root));
+
 
     }
 

@@ -157,7 +157,7 @@
       <workItem from="1672547377490" duration="11633000" />
       <workItem from="1672897782329" duration="9657000" />
       <workItem from="1673246380266" duration="2524000" />
-      <workItem from="1673373594862" duration="7927000" />
+      <workItem from="1673373594862" duration="8081000" />
     </task>
     <task id="LOCAL-00001" summary="polindrom number">
       <created>1670365593125</created>
@@ -261,31 +261,6 @@
           <url>file://$PROJECT_DIR$/src/Check_if_the_Sentence_Is_Pangram_1832/Solution.java</url>
           <line>19</line>
           <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Binaryz_Tree_Preorder_Traversal_144/Solution.java</url>
-          <line>57</line>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Binaryz_Tree_Preorder_Traversal_144/Solution.java</url>
-          <line>58</line>
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Binaryz_Tree_Preorder_Traversal_144/Solution.java</url>
-          <line>60</line>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Binaryz_Tree_Preorder_Traversal_144/Solution.java</url>
-          <line>61</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Binaryz_Tree_Preorder_Traversal_144/Solution.java</url>
-          <line>62</line>
-          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
