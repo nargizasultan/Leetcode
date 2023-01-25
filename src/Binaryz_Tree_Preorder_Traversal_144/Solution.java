@@ -56,11 +56,13 @@ public class Solution {
 
     }
     private static List<Integer>dfs(TreeNode root, List<Integer>list){
-        if(root==null){
-            return list;
-        }
-        list.add(root.val);
-        list=dfs(root.left, list);
-        return dfs(root.right, list);
+
+       if(root==null){
+           return list;
+       }
+       list.add(root.val);
+       list=dfs(root.left, list);
+       return dfs(root.right, list);
+
     }
 }
