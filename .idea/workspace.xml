@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b4d5946-fe51-4aca-bb20-aeb4973fc516" name="Changes" comment="Time: 0 ms (100%), Space: 40.4 MB (88.4%)">
-      <change afterPath="$PROJECT_DIR$/src/Invert_Binary_Tree_226/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Merge_Two_Binary_Trees_617/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -152,7 +152,7 @@
       <workItem from="1672897782329" duration="9657000" />
       <workItem from="1673246380266" duration="2524000" />
       <workItem from="1673373594862" duration="23221000" />
-      <workItem from="1674634546918" duration="5304000" />
+      <workItem from="1674634546918" duration="6651000" />
     </task>
     <task id="LOCAL-00001" summary="polindrom number">
       <created>1670365593125</created>
