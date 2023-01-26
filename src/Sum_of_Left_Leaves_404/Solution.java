@@ -36,6 +36,18 @@ public class Solution {
         ans+=sumOfLeftLeaves1(root.right);
        return ans;
     }
+   static int ans=0;
+    public static int sumOfLeftLeaves2(TreeNode root) {
+
+      if(root==null)return 0;
+
+      if(root.left!=null && root.left.left==null && root.left.right==null){
+          ans+=root.left.val;
+      }
+      sumOfLeftLeaves2(root.left);
+      sumOfLeftLeaves2(root.right);
+      return ans;
+    }
 
 
     public static class TreeNode {
