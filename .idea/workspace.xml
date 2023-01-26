@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b4d5946-fe51-4aca-bb20-aeb4973fc516" name="Changes" comment="Time: 0 ms (100%), Space: 40.4 MB (88.4%)">
-      <change afterPath="$PROJECT_DIR$/src/Sum_of_Left_Leaves_404/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sum_of_Left_Leaves_404/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sum_of_Left_Leaves_404/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,7 +152,7 @@
       <workItem from="1672897782329" duration="9657000" />
       <workItem from="1673246380266" duration="2524000" />
       <workItem from="1673373594862" duration="23221000" />
-      <workItem from="1674634546918" duration="7960000" />
+      <workItem from="1674634546918" duration="9972000" />
     </task>
     <task id="LOCAL-00001" summary="polindrom number">
       <created>1670365593125</created>

@@ -20,6 +20,23 @@ public class Solution {
 
 
     }
+    public static int sumOfLeftLeaves1(TreeNode root) {
+
+       if(root==null) return 0;
+       int ans=0;
+       if(root.left!=null){
+           if(root.left.left==null && root.left.right==null){
+               ans+=root.left.val;
+           }
+           else{
+              ans+= sumOfLeftLeaves1(root.left);
+           }
+
+       }
+        ans+=sumOfLeftLeaves1(root.right);
+       return ans;
+    }
+
 
     public static class TreeNode {
         int val;
