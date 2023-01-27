@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8b4d5946-fe51-4aca-bb20-aeb4973fc516" name="Changes" comment="Time: 0 ms (100%), Space: 40.4 MB (88.4%)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Invert_Binary_Tree_226/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Invert_Binary_Tree_226/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Merge_Two_Binary_Trees_617/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Merge_Two_Binary_Trees_617/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +48,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Sum_of_Left_Leaves_404.Solution">
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="Binary_Tree_Postorder_Traversal_145.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Binary_Tree_Postorder_Traversal_145.Solution" />
       <module name="Leetcode" />
@@ -81,6 +82,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Invert_Binary_Tree_226.Solution" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Invert_Binary_Tree_226.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Sum_of_Left_Leaves_404.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sum_of_Left_Leaves_404.Solution" />
       <module name="Leetcode" />
@@ -94,26 +108,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Symmetric_Tree_101.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Symmetric_Tree_101.Solution" />
-      <module name="Leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Symmetric_Tree_101.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Sum_of_Left_Leaves_404.Solution" />
         <item itemvalue="Application.Path_Sum_112.Solution" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Binary_Tree_Postorder_Traversal_145.Solution" />
-        <item itemvalue="Application.Symmetric_Tree_101.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +153,7 @@
       <workItem from="1672897782329" duration="9657000" />
       <workItem from="1673246380266" duration="2524000" />
       <workItem from="1673373594862" duration="23221000" />
-      <workItem from="1674634546918" duration="14685000" />
+      <workItem from="1674634546918" duration="23194000" />
     </task>
     <task id="LOCAL-00001" summary="polindrom number">
       <created>1670365593125</created>

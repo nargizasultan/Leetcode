@@ -2,8 +2,11 @@ package Merge_Two_Binary_Trees_617;
 
 import com.sun.source.tree.Tree;
 
+import java.util.Stack;
+
 public class Solution {
     public static void main(String[] args) {
+
 
     }
 
@@ -26,8 +29,8 @@ public class Solution {
         if(root2==null) return root1;
         //
         //left right;
-        TreeNode left=mergeTrees(root1.left, root2.left);
-        TreeNode right=mergeTrees(root1.right, root2.right);
+        TreeNode left=mergeTrees2(root1.left, root2.left);
+        TreeNode right=mergeTrees2(root1.right, root2.right);
         TreeNode node=new TreeNode(root1.val+ root2.val, left, right);
         return node;
 
@@ -53,4 +56,5 @@ public class Solution {
             this.right = right;
         }
     }
+
 }
