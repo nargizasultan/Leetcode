@@ -1,5 +1,7 @@
 package Sum_of_Left_Leaves_404;
 
+import java.util.Stack;
+
 public class Solution {
     public static void main(String[] args) {
         TreeNode root = new TreeNode(3, new TreeNode(9), new TreeNode(20, new TreeNode(15), new TreeNode(7)));
@@ -35,6 +37,25 @@ public class Solution {
        }
         ans+=sumOfLeftLeaves1(root.right);
        return ans;
+    }
+
+    public static int sumOfLeftLeaves3(TreeNode root) {
+
+       Stack<TreeNode>stack=new Stack<>();
+       int sum=0;
+       stack.add(root);
+       while(!stack.isEmpty()){
+           TreeNode node = stack.pop();
+           if(node==null){
+               continue;
+           }
+           else if(node.left!=null && node.left.left==null && node.left.right==null){
+               sum+=node.left.val;
+           }
+           stack.add(node.left);
+           stack.add(node.right);
+       }
+       return sum;
     }
    static int ans=0;
     public static int sumOfLeftLeaves2(TreeNode root) {
