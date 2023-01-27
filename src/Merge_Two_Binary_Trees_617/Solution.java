@@ -19,6 +19,22 @@ public class Solution {
 
     }
 
+    public static TreeNode mergeTrees2(TreeNode root1, TreeNode root2) {
+       //postorder
+        if(root1==null && root2==null) return null;
+        if(root1==null)return root2;
+        if(root2==null) return root1;
+        //
+        //left right;
+        TreeNode left=mergeTrees(root1.left, root2.left);
+        TreeNode right=mergeTrees(root1.right, root2.right);
+        TreeNode node=new TreeNode(root1.val+ root2.val, left, right);
+        return node;
+
+
+
+    }
+
     public static class TreeNode {
         int val;
         TreeNode left;
