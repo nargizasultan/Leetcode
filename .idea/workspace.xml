@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b4d5946-fe51-4aca-bb20-aeb4973fc516" name="Changes" comment="Time: 0 ms (100%), Space: 40.4 MB (88.4%)">
+      <change afterPath="$PROJECT_DIR$/src/Maximum_Depth_of_Binary_Tree_104/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Invert_Binary_Tree_226/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Invert_Binary_Tree_226/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Merge_Two_Binary_Trees_617/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Merge_Two_Binary_Trees_617/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Path_Sum_112/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Path_Sum_112/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,13 +49,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Solution">
-    <configuration name="Binary_Tree_Postorder_Traversal_145.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Binary_Tree_Postorder_Traversal_145.Solution" />
+  <component name="RunManager" selected="Application.Maximum_Depth_of_Binary_Tree_104.Solution">
+    <configuration name="Maximum_Depth_of_Binary_Tree_104.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Maximum_Depth_of_Binary_Tree_104.Solution" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Binary_Tree_Postorder_Traversal_145.*" />
+          <option name="PATTERN" value="Maximum_Depth_of_Binary_Tree_104.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Maximum_Depth_of_Binary_Tree_104.Solution" />
+        <item itemvalue="Application.Path_Sum_112.Solution" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Sum_of_Left_Leaves_404.Solution" />
-        <item itemvalue="Application.Path_Sum_112.Solution" />
         <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Binary_Tree_Postorder_Traversal_145.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +154,9 @@
       <workItem from="1672897782329" duration="9657000" />
       <workItem from="1673246380266" duration="2524000" />
       <workItem from="1673373594862" duration="23221000" />
-      <workItem from="1674634546918" duration="23194000" />
+      <workItem from="1674634546918" duration="26540000" />
+      <workItem from="1675017682755" duration="2630000" />
+      <workItem from="1675193655702" duration="2999000" />
     </task>
     <task id="LOCAL-00001" summary="polindrom number">
       <created>1670365593125</created>
@@ -257,6 +260,46 @@
           <url>file://$PROJECT_DIR$/src/Check_if_the_Sentence_Is_Pangram_1832/Solution.java</url>
           <line>19</line>
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Maximum_Depth_of_Binary_Tree_104/Solution.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Maximum_Depth_of_Binary_Tree_104/Solution.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Maximum_Depth_of_Binary_Tree_104/Solution.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Maximum_Depth_of_Binary_Tree_104/Solution.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Maximum_Depth_of_Binary_Tree_104/Solution.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Maximum_Depth_of_Binary_Tree_104/Solution.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Maximum_Depth_of_Binary_Tree_104/Solution.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Maximum_Depth_of_Binary_Tree_104/Solution.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

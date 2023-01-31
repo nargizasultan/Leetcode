@@ -1,11 +1,7 @@
 package Invert_Binary_Tree_226;
 
-import com.sun.source.tree.Tree;
-
-import java.util.Deque;
 import java.util.LinkedList;
 import java.util.Queue;
-import java.util.Stack;
 
 public class Solution {
     public static void main(String[] args) {
@@ -48,23 +44,25 @@ public class Solution {
 
     public static TreeNode invertTree3(TreeNode root) {
         //dfs
-       if(root==null)return null;
-       Queue<TreeNode> queue=new LinkedList();
-       queue.add(root);
-       while (!queue.isEmpty()){
-           TreeNode node = queue.poll();
-           TreeNode left=node.left;
-           node.left=node.right;
-           node.right=left;
-           if(node.left!=null){
-               queue.add(node.left);
-           }
-           if(node.right!=null){
-               queue.add(node.right);
-           }
-       }
-       return root;
+        if(root==null){
+            return null;
+        }
+        Queue<TreeNode> queue=new LinkedList();
+        queue.add(root);
+        while (!queue.isEmpty()){
+            TreeNode node = queue.poll();
+            TreeNode left = node.left;
+            node.left=node.right;
+            node.right=left;
+            if(node.right!=null){
+                queue.add(node.right);
+            }
+            if(node.left!=null){
+                queue.add(node.left);
+            }
 
+        }
+        return root;
 
     }
 
